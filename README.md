@@ -290,24 +290,23 @@ Place your screenshots in `powerbi/screenshots/` and use these paths below. The 
 
 #### Executive Overview
 
-![Executive Overview]
-Power BI Dashboard/screenshots/Ecommerce_Customer_Intelligence_page-0001.jpg
+<img width="3075" height="1763" alt="Ecommerce_Customer_Intelligence_page-0001" src="https://github.com/user-attachments/assets/e9fdbeeb-6126-4ca9-933a-beb662e1854a" />
 
 #### Customer Intelligence
 
-![Customer Intelligence]Power BI Dashboard/screenshots/Ecommerce_Customer_Intelligence_page-0002.jpg
+<img width="3075" height="1763" alt="Ecommerce_Customer_Intelligence_page-0002" src="https://github.com/user-attachments/assets/69d0da97-a5a6-4e8e-bd8a-ca972486cf26" />
 
 #### Product & Sales Performance
 
-![Product and Sales Performance]Power BI Dashboard/screenshots/Ecommerce_Customer_Intelligence_page-0003.jpg
+<img width="3075" height="1763" alt="Ecommerce_Customer_Intelligence_page-0003" src="https://github.com/user-attachments/assets/d63b1de7-46b0-401d-8df2-ec9453ca3534" />
 
 #### Geographic Analysis
 
-![Geographic Analysis]Power BI Dashboard/screenshots/Ecommerce_Customer_Intelligence_page-0004.jpg
+<img width="3075" height="1763" alt="Ecommerce_Customer_Intelligence_page-0004" src="https://github.com/user-attachments/assets/33f7e2ae-bec1-45d5-ba99-1cc3fb593a75" />
 
 #### RFM Customer Segmentation
 
-![RFM Customer Segmentation]Power BI Dashboard/screenshots/Ecommerce_Customer_Intelligence_page-0005.jpg
+<img width="3075" height="1763" alt="Ecommerce_Customer_Intelligence_page-0005" src="https://github.com/user-attachments/assets/a18216b8-bf6a-4cea-aad0-85a15b0d7b35" />
 
 ## Key Findings
 
